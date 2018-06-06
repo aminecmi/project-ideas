@@ -1,6 +1,10 @@
 # project-ideas
 ## Idées d'apps, logiciels, fonctionnalités. Servez-vous.
 
+### MediaFingerPrint
+
+Utiliser le scanner d'empreintes d'un téléphone android en veille comme boutons média (chanson suivante/précédente, pause, play)
+
 ### SelfieToSelfieStickPic
 
 Transformer un selfie de l'utilisateur en ajoutant le selfie stick à la photo.
