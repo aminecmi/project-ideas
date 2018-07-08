@@ -1,7 +1,7 @@
 # project-ideas
 ## Idées d'apps, logiciels, fonctionnalités. Servez-vous.
 
-### MediaFingerPrint
+### MediaFingerPrint [now available here](https://github.com/aminecmi/MediaFingerprint)
 
 Utiliser le scanner d'empreintes d'un téléphone android en veille comme boutons média (chanson suivante/précédente, pause, play)
 
